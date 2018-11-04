@@ -21,7 +21,7 @@ body{
     opacity: 0.9;
     padding: 14px 28px;
     font-size: 16px;
-    border-radius: 50%;
+    border-radius: 45%;
     cursor: pointer;
     text-align: center;
    
@@ -38,7 +38,7 @@ body{
     opacity: 0.9;
     padding: 14px 28px;
     font-size: 16px;
-    border-radius: 50%;
+    border-radius: 45%;
     cursor: pointer;
     text-align: center;
 }
@@ -176,63 +176,3 @@ h1{
     border-color: red;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
