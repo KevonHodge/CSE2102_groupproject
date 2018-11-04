@@ -1,0 +1,9 @@
+The Below is a brief explaination of what pages are inteded for who:-
+
+Page 1 is the loged in interface for a Regular/Staff user.
+
+Page 2 is the logged in interface for an Administrator.
+
+Page 3 is  the Search option's interface for both ADMINISTRATOR and Staff.
+
+Page 4 is the Book A Room option's interface for a Staff.
